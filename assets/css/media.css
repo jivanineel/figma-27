@@ -1,0 +1,60 @@
+@media (max-width: 1199.98px) {
+     h2 {
+          font-size: 40px;
+     }
+
+     .platforms {
+          font-size: 14px;
+     }
+}
+
+@media (max-width: 767.98px) {
+     h1 {
+          font-size: 57px;
+     }
+
+     .navbar-collapse {
+          position: absolute;
+          top: 67px;
+          left: 0;
+          background-color: #000;
+          width: 100%;
+          z-index: 2;
+          padding: 30px;
+     }
+
+     .nav-link {
+          color: #fff !important;
+
+     }
+
+     .navbar-toggler:focus {
+          box-shadow: none;
+     }
+}
+
+@media (max-width: 575.98px) {
+     h1 {
+          font-size: 30px;
+     }
+
+     h3{
+          font-size: 34px
+     }
+
+     .banner {
+          padding: 69px 0 101px;
+     }
+
+     .phasmos {
+          padding: 50px 31px 50px 37px;
+     }
+
+     .empress {
+          padding: 80px 40px 55px 40px;
+     }
+
+     .change{
+          display: none;
+     }
+}

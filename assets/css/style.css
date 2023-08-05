@@ -1,0 +1,105 @@
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+}
+
+/**Comman Class**/
+h1 {
+     font-size: 70px;
+     color: #FCFCFC;
+}
+
+h2 {
+     font-size: 60px;
+}
+
+h3 {
+     font-size: 50px;
+}
+
+.platform {
+     font-size: 18px;
+     color: #888484;
+}
+
+/**Comman Class end**/
+
+/**Header**/
+.navbar {
+     background-color: #FFA41D;
+     padding-left: 75px;
+     border-bottom: 1px solid #EEDFDF;
+}
+
+.navbar-brand {
+     font-size: 30px;
+}
+
+.nav-link {
+     font-size: 14px;
+     margin-right: 30px;
+}
+
+/**Header end**/
+
+/**Banner**/
+/**Banner**/
+.banner {
+     background: linear-gradient(180deg, #FFA41D 0%, rgba(225, 150, 38, 0.60) 100%);
+     padding: 89px 0 155px;
+}
+
+.btn-warning {
+     border-radius: 20px;
+     background: linear-gradient(51deg, #FFA41D 0%, #FFAD33 100%);
+     width: 266px;
+     height: 53px;
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+     margin-top: 26px;
+}
+
+/**Banner end**/
+
+/**Phasmos**/
+.phasmos {
+     padding: 97px 44px 47px 83px;
+}
+
+.background-video {
+     max-width: 613.552px;
+     height: 429.147px;
+     background: #F6AC3E;
+}
+
+.heading-top {
+     width: 74px;
+     height: 5.907px;
+     background: #FFA41D;
+}
+
+.phasmos .btn-warning {
+     width: 186px;
+     height: 47.257px;
+}
+
+/**Phasmos end**/
+
+/**Empress**/
+.empress {
+     padding: 154px 44px 104px 81px;
+}
+
+.para {
+     color: #FFA41D;
+}
+
+.empress .platform {
+     letter-spacing: 0.8px;
+     line-height: 36.507px;
+}
+
+.metal-vegas{
+     margin-top: 70px;
+}
+/**Empress**/
