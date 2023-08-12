@@ -8,7 +8,7 @@
      }
 }
 
-@media (max-width: 767.98px) {
+@media (max-width: 768.98px) {
      h1 {
           font-size: 57px;
      }
@@ -31,6 +31,43 @@
      .navbar-toggler:focus {
           box-shadow: none;
      }
+
+     .empress {
+          padding: 80px 40px 55px 40px;
+     }
+
+     .proffessions {
+          padding: 80px 40px 55px 40px;
+     }
+
+     .metal-vegas {
+          margin-top: 55px;
+     }
+
+     .proffessions .card {
+          margin-top: 20px;
+     }
+
+     .card-clients {
+          margin-top: 50px;
+     }
+
+     .why-metal {
+          padding: 27px 65px 54px 81px;
+     }
+
+     .why-metal .card {
+          margin-top: 20px;
+     }
+
+     .card-metal{
+          margin-top: 35px;
+     }
+
+     .why-metal .btn-warning {
+          margin-left: 0;
+          width: 200px;
+     }
 }
 
 @media (max-width: 575.98px) {
@@ -38,7 +75,7 @@
           font-size: 30px;
      }
 
-     h3{
+     h3 {
           font-size: 34px
      }
 
@@ -50,11 +87,15 @@
           padding: 50px 31px 50px 37px;
      }
 
-     .empress {
-          padding: 80px 40px 55px 40px;
+     .change {
+          display: none;
      }
 
-     .change{
-          display: none;
+     .proffessions .btn-warning {
+          width: 200px;
+     }
+
+     .why-metal {
+          padding: 80px 40px 55px 40px;
      }
 }

@@ -18,6 +18,11 @@ h3 {
      font-size: 50px;
 }
 
+h5 {
+     color: #888484;
+     font-size: 25px;
+}
+
 .platform {
      font-size: 18px;
      color: #888484;
@@ -64,6 +69,7 @@ h3 {
 /**Phasmos**/
 .phasmos {
      padding: 97px 44px 47px 83px;
+     background: #FAFAFA;
 }
 
 .background-video {
@@ -88,6 +94,7 @@ h3 {
 /**Empress**/
 .empress {
      padding: 154px 44px 104px 81px;
+     background: #FAFAFA;
 }
 
 .para {
@@ -99,7 +106,88 @@ h3 {
      line-height: 36.507px;
 }
 
-.metal-vegas{
+.metal-vegas {
+     margin-top: 95px;
+}
+
+/**Empress**/
+
+/**Proffessions**/
+.proffessions {
+     padding: 0 44px 104px 81px;
+     background: #FAFAFA;
+}
+
+.prof {
+     color: #FFAD33;
+}
+
+.card-clients {
+     margin-top: 130px;
+}
+
+.proffessions .card {
+     max-width: 308px;
+     height: 316px;
+     padding: 52px 22px 86px 25px;
+     border-top: 2px solid #1A52E4 !important;
+     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.05) -2px 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.proffessions .card .card-img-top {
+     width: 60px;
+     height: 60px;
+}
+
+.card-text {
+     font-size: 14px;
+}
+
+.proffessions .btn-warning {
+     width: 300px;
+     height: 47px;
      margin-top: 70px;
 }
-/**Empress**/
+
+/**Proffessions**/
+
+/**Why-metalvaggas**/
+.why-metal {
+     padding: 27px 166px 54px 81px;
+     background-color: #FAFAFA;
+}
+
+.why-metal .card {
+     max-width: 308px;
+     height: 302px;
+     padding: 25px 33px 25px 13px;
+     border-top: 2px solid #1A52E4 !important;
+}
+
+.why-metal .card .card-img-top{
+     width: 80px;
+     height: 80px;
+}
+
+.why-metal .card .card-title{ 
+     font-size: 20px;
+}
+
+.card-metal{
+     margin-top: 76px;
+}
+
+.why-metal .btn-warning {
+     width: 300px;
+     height:47px;                                                                                                                                                 
+     margin-top: 70px;
+     margin-left: 100px;
+}
+/**Why-metalvaggas end**/
+
+/**About us**/
+.about-us{
+     background-color: #FAFAFA;
+     padding: 88px 33px 0 87px;
+}
+/**About us end**/
